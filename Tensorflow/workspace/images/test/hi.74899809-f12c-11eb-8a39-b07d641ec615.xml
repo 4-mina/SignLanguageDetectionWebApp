@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagesCombined</folder>
+	<filename>hi.74899809-f12c-11eb-8a39-b07d641ec615.jpg</filename>
+	<path>C:\Users\Amina P\Desktop\MR\RealTimeObjectDetection\Tensorflow\workspace\images\imagesCombined\hi.74899809-f12c-11eb-8a39-b07d641ec615.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>167</ymin>
+			<xmax>422</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>
